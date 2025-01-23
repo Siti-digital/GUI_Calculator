@@ -1,0 +1,1 @@
+this is a GUI calculator for your everyday use. currently it has only basic operations like addtion, subtraction, multiplication and division but in the future updates we will bring scientific calculator version and also units conversion and much more. keep in touch.
